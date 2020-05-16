@@ -1,7 +1,6 @@
 # MSSQL-ANDROID-CONNECTION-2
 android mssql connection class file
 
-
 Step One    : Add class 
 Step Two    : implementation 'net.sourceforge.jtds:jtds:1.3.1'  // Add dependency
 Step Three  : Class Function by their object 
